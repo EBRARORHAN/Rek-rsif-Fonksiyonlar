@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*Klavyeden girilen sayinin basamak değerlerinden tek olanlarin kareleri ile çift olanlarin
+/*Klavyeden girilen sayinin basamak deÄŸerlerinden tek olanlarin kareleri ile Ã§ift olanlarin
 kareleri arasindaki farki bulan rekursif fonksiyon*/
 
 int F(int n){
